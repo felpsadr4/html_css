@@ -1,0 +1,35 @@
+@charset "UTF-8";
+* {
+    font-family: Arial, Helvetica, sans-serif;
+ 
+}
+body{
+    /*Background-image = Usado para mudar a cor de fundo do site. */
+    background-image: linear-gradient(to right,#7972C2,#9990F5);
+}
+main{
+    /*Background-color = Usado para mudar a cor de fundo da área marcada. */
+    background-color: #DEDBF7;
+    border-radius: 10px;
+    /*border-radius = Usado para deixar as bordas arredondadinhas.*/
+    box-shadow: 5px 5px 15px #412d7a9d;
+    /*box-shadow = Usado para deixar um sombreamento ao redor da caixa.*/
+    width: 600px;
+    padding: 10px;
+    margin: auto;
+     ;
+}
+h1{
+    /*Color = Usado para mudar a cor da fonte */
+   color: #4c4b55;
+   text-align: center;
+   text-shadow: 1px 1px 2px #69687591;
+;
+}
+
+h2{
+    color: #494575;
+}
+p{
+    text-align: justify;
+}
